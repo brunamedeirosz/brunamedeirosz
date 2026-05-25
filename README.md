@@ -1,6 +1,6 @@
 # 👩‍💻 Bruna Medeiros
 
-**`Estudante de Programação`**
+**`Desenvolvedora em formação | React • Django • Python`**
 
 ### 🤖 Linguagens e Tecnologias
 
