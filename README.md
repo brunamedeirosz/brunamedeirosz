@@ -1,8 +1,10 @@
-# 👩‍💻 Bruna Medeiros
+# 👋 Olá, eu sou a Bruna Medeiros
 
-**`Desenvolvedora em formação | React • Django • Python`**
+**`💻 Estagiária de Desenvolvimento de Software`**
 
-### 🤖 Linguagens e Tecnologias
+**`🎓 Estudante de Engenharia de Software`**
+
+### Tecnologias
 
 <img
   align="left"
@@ -14,12 +16,28 @@
 
 <img
   align="left"
+  alt="DJANGO"
+  title="DJANGO"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+
+<img
+  align="left"
+  alt="JAVASCRIPT"
+  title="JAVASCRIPT"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img
+  align="left"
   alt="REACT"
   title="REACT"
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-          
+
 <img
   align="left"
   alt="HTML"
@@ -35,7 +53,7 @@
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
- 
+
 <img
   align="left"
   alt="POSTGRESQL"
@@ -43,3 +61,20 @@
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<img
+  align="left"
+  alt="DOCKER"
+  title="DOCKER"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+<img
+  align="left"
+  alt="GIT"
+  title="GIT"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
