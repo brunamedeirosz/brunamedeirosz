@@ -4,7 +4,7 @@
 
 **`🎓 Estudante de Engenharia de Software`**
 
-### Tecnologias
+
 
 <img
   align="left"
