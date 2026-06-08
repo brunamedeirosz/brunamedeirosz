@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou a Bruna Medeiros
 
-**`💻 Estagiária de Desenvolvimento de Software`**
+*`💻 Estagiária de Desenvolvimento de Software`*
 
-**`🎓 Estudante de Engenharia de Software`**
+*`🎓 Estudante de Engenharia de Software`*
 
-
+<hr>
 
 <img
   align="left"
